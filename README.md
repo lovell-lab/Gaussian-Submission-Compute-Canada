@@ -3,4 +3,4 @@ Here, you will find two files that will help you submit your input files to Comp
 
 Just download the files and upload them to your script folder in the supercomputer. Then from script folder just run: 
 
-bash submit_gaussian.bas
+bash submit_gaussian.bash
